@@ -1,2 +1,2 @@
-# NodeJS-TablaMultiplicarConsola
-Ejemplo de crear archivo con tabla de multiplicar por consola
+# NodeJS-TableMultiplyConsole
+Example of creating file with multiplication table by console
